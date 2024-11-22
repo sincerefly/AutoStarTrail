@@ -29,7 +29,13 @@ $ python3 main.py -i ./input -o ./output -d 1.0 -m image
 $ python3 main.py -i ./input -o ./output -d 0.993 -m image
 ```
 
-### ImageDemo
+生成星轨视频
+
+```bash
+$ python3 main.py -i ./input -o ./output -d 1.0 -m video
+```
+
+### 效果示例
 
 全拖尾，衰减值为1.0：
 
